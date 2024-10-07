@@ -33,4 +33,5 @@ To install and run the app locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yashmaisr00t.git
+   git clone https://github.com/TeymurNovruzov/yashmaisr00t.git
+  ```
